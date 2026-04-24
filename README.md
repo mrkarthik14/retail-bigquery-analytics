@@ -34,6 +34,10 @@
 ![RFM Segmentation](screenshots/dashboard_rfm_segments.png)
 *Champion customers (15% of users) drive 41% of total revenue*
 
+### Product Performance Analysis
+![Product Performance](screenshots/dashboard_product_performance.png)
+*Category ranking and discount vs. return rate scatter plot*
+
 ### Cohort Retention Heatmap
 ![Cohort Retention](screenshots/dashboard_cohort_retention.png)
 *Month-over-month retention matrix across 18 acquisition cohorts*
@@ -53,6 +57,10 @@
 ### Query Execution — RFM Segmentation
 ![BigQuery RFM](screenshots/bigquery_rfm.png)
 *Multi-level CTEs with NTILE scoring across Recency, Frequency, and Monetary dimensions*
+
+### Query Execution — Product Performance
+![BigQuery Product Performance](screenshots/bigquery_product_performance.png)
+*Category ranking and return rate analysis with QUALIFY clause*
 
 ### Query Execution — Cohort Retention Matrix
 ![BigQuery Cohort](screenshots/bigquery_cohort.png)
