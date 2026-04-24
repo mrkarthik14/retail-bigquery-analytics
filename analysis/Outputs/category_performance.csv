@@ -1,0 +1,151 @@
+result_type,category,department,total_orders,units_sold,total_revenue,avg_sale_price,avg_discount_pct,return_rate_pct,dept_revenue_rank,revenue_share_pct,product_name,brand,category_rank
+category_summary,Outerwear & Coats,Men,5138,5300,782123.58,147.57,0.0,10.43,1,7.93,,,
+category_summary,Jeans,Men,6669,6948,713017.06,102.62,0.0,10.13,2,7.23,,,
+category_summary,Suits & Sport Coats,Men,4478,4587,576623.17,125.71,0.0,9.59,3,5.85,,,
+category_summary,Sweaters,Men,6067,6286,489520.97,77.87,0.0,9.93,4,4.97,,,
+category_summary,Outerwear & Coats,Women,3037,3096,437340.12,141.26,0.0,9.56,1,4.44,,,
+category_summary,Dresses,Women,4862,4992,433204.41,86.78,0.0,9.64,2,4.39,,,
+category_summary,Jeans,Women,4300,4404,417518.42,94.8,0.0,9.63,3,4.24,,,
+category_summary,Intimates,Women,11442,12163,411347.16,33.82,0.0,9.96,4,4.17,,,
+category_summary,Pants,Men,6355,6588,393071.31,59.66,0.0,9.46,5,3.99,,,
+category_summary,Fashion Hoodies & Sweatshirts,Men,6030,6226,362946.54,58.3,0.0,10.1,6,3.68,,,
+category_summary,Swim,Women,4449,4559,304686.36,66.83,0.0,9.45,5,3.09,,,
+category_summary,Shorts,Men,5781,5955,296632.47,49.81,0.0,9.76,7,3.01,,,
+category_summary,Sleep & Lounge,Men,5622,5791,290978.56,50.25,0.0,10.03,8,2.95,,,
+category_summary,Tops & Tees,Men,6567,6813,289763.71,42.53,0.0,10.6,9,2.94,,,
+category_summary,Swim,Men,5386,5564,280380.42,50.39,0.0,9.88,10,2.84,,,
+category_summary,Sweaters,Women,3634,3698,267844.33,72.43,0.0,10.44,6,2.72,,,
+category_summary,Blazers & Jackets,Women,2778,2824,263651.62,93.36,0.0,11.01,7,2.67,,,
+category_summary,Maternity,Women,4543,4651,240515.61,51.71,0.0,10.62,8,2.44,,,
+category_summary,Fashion Hoodies & Sweatshirts,Women,4518,4628,225951.35,48.82,0.0,9.12,9,2.29,,,
+category_summary,Sleep & Lounge,Women,4156,4255,204542.46,48.07,0.0,10.15,10,2.07,,,
+top_products,Socks,,13,13,11739.0,903.0,,23.08,,,Nike Jordan Retro 11 Bred Bootie Socks,Jordan,1
+top_products,Outerwear & Coats,,10,10,9990.0,999.0,,20.0,,,Darla,Alpha Industries,1
+top_products,Active,,10,10,9030.0,903.0,,10.0,,,The North Face Apex Bionic Soft Shell Jacket - Men's,The North Face,1
+top_products,Outerwear & Coats,,9,9,8127.0,903.0,,22.22,,,The North Face Apex Bionic Jacket - Men's,The North Face,2
+top_products,Outerwear & Coats,,9,9,8127.0,903.0,,0.0,,,The North Face Denali Down Womens Jacket 2013,The North Face,2
+top_products,Shorts,,9,9,8127.0,903.0,,11.11,,,AIR JORDAN DOMINATE SHORTS MENS 465071-100,Jordan,1
+top_products,Pants & Capris,,11,11,7645.0,695.0,,0.0,,,True Religion Women's Casey Stretch Leather Pants,True Religion,1
+top_products,Outerwear & Coats,,8,8,7224.0,903.0,,12.5,,,The North Face Freedom Mens Ski Pants 2013,The North Face,4
+top_products,Shorts,,7,7,6993.0,999.0,,42.86,,,Alpha Industries Rip Stop Short,Alpha Industries,2
+top_products,Outerwear & Coats,,10,10,6950.0,695.0,,0.0,,,Canada Goose Women's Solaris,Canada Goose,5
+top_products,Active,,7,7,6321.0,903.0,,0.0,,,adidas Women's adiFIT Slim Pant,adidas,2
+top_products,Socks,,7,7,6321.0,903.0,,14.29,,,Jordan Low Quarter Sock Style # 427411,Nike,2
+top_products,Pants & Capris,,7,7,6265.0,895.0,,0.0,,,Catherine Malandrino Women's Skinny Stretch Leather Pant,Catherine Malandrino,2
+top_products,Active,,6,6,5418.0,903.0,,0.0,,,JORDAN DURASHEEN SHORT MENS 404309-109,Jordan,3
+top_products,Suits & Sport Coats,,10,10,4950.0,495.0,,10.0,,,Ben Sherman Men's Side Vent 2 Piece Suit,Ben Sherman,1
+top_products,Suits & Sport Coats,,7,7,4886.0,698.0,,0.0,,,Robert Graham Men's Barbican Velvet Blazer,Robert Graham,2
+top_products,Suits & Sport Coats,,8,8,4800.0,600.0,,12.5,,,Harris Tweed Wool Jacket-Dougal Limited Edition,The Harris Tweed Of Scotland,3
+top_products,Skirts,,8,8,4760.0,595.0,,12.5,,,Robert Rodriguez Women's High Waisted Pencil Skirt,Robert Rodriguez,1
+top_products,Suits & Sport Coats,,14,14,4550.0,325.0,,7.14,,,7 Diamonds Men's Treviso,7 Diamonds,4
+top_products,Active,,5,5,4515.0,903.0,,0.0,,,The North Face Denali Down Womens Jacket 2013,The North Face,4
+top_products,Fashion Hoodies & Sweatshirts,,5,5,4515.0,903.0,,20.0,,,The North Face Apex Bionic Soft Shell Jacket - Men's,The North Face,1
+top_products,Intimates,,5,5,4515.0,903.0,,0.0,,,NIKE WOMEN'S PRO COMPRESSION SPORTS BRA *Outstanding Support and Comfort*,Nike,1
+top_products,Sleep & Lounge,,11,11,4399.45,399.95,,18.18,,,Regency New York Men's Smoking Jacket Bartholomew Navy,Regency New York,1
+top_products,Suits & Sport Coats,,13,13,4225.0,325.0,,15.38,,,7 Diamonds Men's Palermo Blazer,7 Diamonds,5
+top_products,Blazers & Jackets,,13,13,4225.0,325.0,,7.69,,,McGinn Women's Sasha Tweed Jacket,McGinn,1
+top_products,Active,,6,6,4170.0,695.0,,16.67,,,Canada Goose Women's Solaris,Canada Goose,5
+top_products,Dresses,,8,8,3984.0,498.0,,25.0,,,Tracy Reese Women's Contrast Frock,Tracy Reese,1
+top_products,Blazers & Jackets,,8,8,3960.0,495.0,,0.0,,,MiH Jeans Women's Aztec Jacket,MiH Jeans,2
+top_products,Dresses,,10,10,3950.0,395.0,,10.0,,,Rebecca Taylor Women's Lace Dress,Rebecca Taylor,2
+top_products,Blazers & Jackets,,11,11,3872.0,352.0,,18.18,,,Parker Women's Zip Jacket,Parker,3
+top_products,Pants,,13,13,3769.35,289.95,,7.69,,,Carhartt Mens Duck Bib Quilt Lined,Carhartt,1
+top_products,Dresses,,11,11,3608.0,328.0,,9.09,,,Trina Turk Women's Inga Dress,Trina Turk,3
+top_products,Sleep & Lounge,,9,9,3599.55,399.95,,0.0,,,Regency New York Men's Smoking Jacket Constantine Black,Regency New York,2
+top_products,Skirts,,6,6,3588.0,598.0,,0.0,,,Rebecca Minkoff Women's Leather Luciana Skirt,Rebecca Minkoff,2
+top_products,Jeans,,11,11,3585.45,325.95,,0.0,,,True Religion Men's Ricky Straight Jean,True Religion,1
+top_products,Dresses,,9,9,3555.0,395.0,,11.11,,,Rebecca Taylor Women's Lace Dress,Rebecca Taylor,4
+top_products,Sweaters,,11,11,3430.35,311.85,,27.27,,,Michael Kors Men's Tweed Cable Turtleneck,Michael Kors,1
+top_products,Dresses,,9,9,3402.0,378.0,,11.11,,,Tracy Reese Women's Applique Frock,Tracy Reese,5
+top_products,Sweaters,,10,10,3350.0,335.0,,30.0,,,Men's St. Croix Long Sleeve Double Lock 1/4 Zip Sweater,St Croix,2
+top_products,Jumpsuits & Rompers,,6,6,3300.0,550.0,,0.0,,,Nicole Miller Women's Halter Jumpsuit,Nicole Miller,1
+top_products,Sleep & Lounge,,11,11,3299.45,299.95,,9.09,,,Regency New York Men's Smoking Jacket Lawrence Black,Regency New York,3
+top_products,Sleep & Lounge,,9,9,3240.0,360.0,,0.0,,,BedHead Pajamas Women's Cashmere Robe,BedHead,4
+top_products,Tops & Tees,,12,12,3216.0,268.0,,0.0,,,Robert Graham Men's Freeboard,Robert Graham,1
+top_products,Plus,,10,10,3199.9,319.99,,0.0,,,BGSD Women's New Zealand Lambskin Leather Hooded Parka Coat with Fox Fur Trim in Black or Brown - Misses & Plus,BGSD,1
+top_products,Blazers & Jackets,,8,8,3184.0,398.0,,12.5,,,Trina Turk Women's Snowonder Blazer,Trina Turk,4
+top_products,Jeans,,9,9,3150.0,350.0,,11.11,,,Diesel Men's Braddom Regular Carrot-Leg Jean,Diesel,2
+top_products,Sweaters,,9,9,3141.0,349.0,,11.11,,,Shephe 4 Ply Women's Classic Cashmere Robe with Full Length,Shephe,3
+top_products,Jeans,,8,8,3064.0,383.0,,12.5,,,True Religion Men's Ricky Super Jean,True Religion,3
+top_products,Jeans,,10,10,2970.0,297.0,,20.0,,,True Religion Men's TRBJ Ricky Badlands Jean,True Religion,4
+top_products,Accessories,,10,10,2964.5,296.45,,0.0,,,Tom Ford Marko FT0144 Sunglasses - 18V Shiny Rhodium (Blue Lens) - 58mm,Tom Ford,1
+top_products,Jeans,,9,9,2952.0,328.0,,11.11,,,Diesel Men's Shioner Skinny Straight Leg Jean,Diesel,5
+top_products,Sweaters,,5,5,2940.0,588.0,,0.0,,,Magaschoni Women's 100% Cashmere Cable Sweater Jacket,Magaschoni,4
+top_products,Fashion Hoodies & Sweatshirts,,10,10,2933.3,293.33,,0.0,,,True Religion Men's TRBJ Power Through Peace Flatlock Hoodie,True Religion,2
+top_products,Blazers & Jackets,,7,7,2904.65,414.95,,42.86,,,NAU Highline Blazer Women's Clothing,NAU,5
+top_products,Jumpsuits & Rompers,,8,8,2800.0,350.0,,25.0,,,Adidas Women's Jeremy Scott Animal Print Jumper Jumpsuit-Dark Yellow,adidas,2
+top_products,Sweaters,,8,8,2799.84,349.98,,12.5,,,Lacoste Men's Club Cashmere Crewneck Sweater Blue,Lacoste,5
+top_products,Skirts,,6,6,2790.0,465.0,,0.0,,,Robert Rodriguez Women's Pencil Skirt,Robert Rodriguez,3
+top_products,Plus,,3,3,2709.0,903.0,,0.0,,,NIKE WOMEN'S PRO COMPRESSION SPORTS BRA *Outstanding Support and Comfort*,Nike,2
+top_products,Shorts,,3,3,2709.0,903.0,,0.0,,,Quiksilver Men's Rockefeller Walkshort,Quiksilver,3
+top_products,Accessories,,10,10,2600.0,260.0,,20.0,,,Oakley Men's Radar Path Iridium Polarized Sunglasses,Oakley,2
+top_products,Skirts,,9,9,2574.0,286.0,,0.0,,,Candela Women's Gaba Skirt,Candela,4
+top_products,Swim,,9,9,2565.0,285.0,,11.11,,,Karla Colletto Outlines One Piece Tank,Karla Colletto,1
+top_products,Suits,,13,13,2550.34,196.18,,7.69,,,Tahari Plus Size Suit Jacket and Pants Military Inspired,Tahari,1
+top_products,Underwear,,9,9,2550.06,283.34,,0.0,,,HUGO BOSS Men's Innovation Boxer Brief,HUGO BOSS,1
+top_products,Accessories,,9,9,2520.0,280.0,,0.0,,,Oakley Men's Racing Jacket Oval Sunglasses,Oakley,3
+top_products,Maternity,,10,10,2500.0,250.0,,0.0,,,A Pea in the Pod Collection: Michael Stars Long Sleeve Belted Maternity Sweater,Michael Stars,1
+top_products,Sleep & Lounge,,10,10,2500.0,250.0,,20.0,,,Derek Rose Men's Flannel Classic Pajama Set,Derek Rose,5
+top_products,Tops & Tees,,9,9,2475.0,275.0,,11.11,,,Twelfth Street by Cynthia Vincent Women's Leather Placket Bell Sleeve,Twelfth Street by Cynthia Vincent,2
+top_products,Maternity,,11,11,2475.0,225.0,,0.0,,,A Pea in the Pod Collection: Citizens of Humanity Avedon Secret Fit Belly(r) 5 Pocket Slim Leg Maternity Jeans,Citizens of Humanity,2
+top_products,Intimates,,9,9,2389.68,265.52,,0.0,,,Fleur Of England Berry Kiss Silk Babydoll FT751,Fleur Of England,2
+top_products,Pants,,8,8,2346.64,293.33,,0.0,,,True Religion Men's Ricky Straight Corduroy Pant,True Religion,2
+top_products,Fashion Hoodies & Sweatshirts,,8,8,2346.64,293.33,,12.5,,,True Religion Men's TRBJ Flatlock Raw Edge Hoodie,True Religion,3
+top_products,Swim,,9,9,2322.0,258.0,,22.22,,,Karla Colletto Grommets One Piece Plunge,Karla Colletto,2
+top_products,Plus,,7,7,2216.2,316.6,,0.0,,,Bali Women's One Smooth U-back Underwire,Bali,3
+top_products,Maternity,,8,8,2200.0,275.0,,12.5,,,A Pea in the Pod Collection: BCBG Long Sleeve Exposed Zipper Maternity Dress,BCBGMAXAZRIA,3
+top_products,Pants,,12,12,2148.0,179.0,,8.33,,,Supercords / Pleated Front Olive Cuffed,Orvis,3
+top_products,Leggings,,4,4,2115.24,528.81,,0.0,,,Catherine Malandrino Women's Stretch Leather Pant,Catherine Malandrino,1
+top_products,Accessories,,8,8,2072.0,259.0,,0.0,,,Costa Del Mar - Blackfin - Camo Frame-580 Green Mirror Glass Polarized Lenses,Costa Del Mar,4
+top_products,Shorts,,12,12,2040.0,170.0,,25.0,,,Siwy Denim Madeleine,Siwy,4
+top_products,Pants & Capris,,8,8,2024.0,253.0,,0.0,,,Corey Lynn Calter Women's Sam Pant,CoreyLynnCalter,3
+top_products,Accessories,,11,11,1980.0,180.0,,9.09,,,Oakley Men's Jupiter Polarized Square Sunglasses,Oakley,5
+top_products,Fashion Hoodies & Sweatshirts,,9,9,1971.0,219.0,,33.33,,,Men's Ed Hardy Hooded Sweat Jacket Fur Lined Tiger Rose Hoodie in Blue,Ed Hardy,4
+top_products,Plus,,13,13,1950.0,150.0,,7.69,,,Oakley Women's Compulsive Squared Sunglasses,Oakley,4
+top_products,Pants,,11,11,1925.0,175.0,,18.18,,,BALLIN Men's Super 120's Gaberdine Manchester Pant,Ballin,4
+top_products,Pants,,11,11,1925.0,175.0,,0.0,,,BALLIN Men's Zig Zag Twill Manchester Pant,Ballin,4
+top_products,Tops & Tees,,10,10,1880.0,188.0,,10.0,,,Trina Turk Women's Crystal Blouse,Trina Turk,3
+top_products,Tops & Tees,,8,8,1824.0,228.0,,12.5,,,Robert Graham Men's Gamboge Striped Sport Shirt,Robert Graham,4
+top_products,Suits,,9,9,1800.0,200.0,,0.0,,,Lesuit Women's Shimmer Pant Suit,Lesuit,2
+top_products,Tops & Tees,,9,9,1782.0,198.0,,0.0,,,BCBGMAXAZRIA Women's Clement Key Hole Top,BCBGMAXAZRIA,5
+top_products,Swim,,10,10,1780.0,178.0,,10.0,,,Gottex Linea One Piece Bandeau,Gottex,3
+top_products,Maternity,,8,8,1744.0,218.0,,12.5,,,True Religion Maternity Jeans : Casey Legging - Buckeye,True Religion,4
+top_products,Shorts,,13,13,1729.0,133.0,,23.08,,,Scotch & Soda Men's Basic Cargo Short,Scotch & Soda,5
+top_products,Plus,,7,7,1701.0,243.0,,0.0,,,DOLCE & GABBANA DG4167 501/8G BLACK GRAY GRADIENT 5917,Dolce & Gabbana,5
+top_products,Maternity,,8,8,1680.0,210.0,,12.5,,,A Pea in the Pod Collection: AG Jeans Ballad Secret Fit Belly(r) Stretch Fabric Boot Cut Maternity Jeans,AG Jeans,5
+top_products,Swim,,11,11,1672.0,152.0,,0.0,,,Miraclesuit Women's Must Have Sanibel One Piece Swimsuit,Miraclesuit,4
+top_products,Swim,,12,12,1656.0,138.0,,16.67,,,Trina Turk Women's Aquarius Bandeau One Pc,Trina Turk,5
+top_products,Fashion Hoodies & Sweatshirts,,8,8,1641.6,205.2,,0.0,,,Diesel Men's Sheka-s Sweat Shirt,Diesel,5
+top_products,Suits,,11,11,1639.0,149.0,,0.0,,,KASPER Bright Accents Textured Jacket/Skirt Suit,Kasper,3
+top_products,Suits,,9,9,1584.0,176.0,,22.22,,,KASPER Metallic 2PC Jacket/Dress Suit,Kasper,4
+top_products,Jumpsuits & Rompers,,10,10,1580.0,158.0,,20.0,,,Juicy Couture Maternity : Utility Romper - Prestige,Juicy Couture,3
+top_products,Suits,,8,8,1569.44,196.18,,12.5,,,Kasper 3 Piece Cape Cod Pant Suit,Kasper,5
+top_products,Leggings,,9,9,1538.82,170.98,,11.11,,,Lean Mean Legging by Hold Your Haunches 201,Hold Your Haunches,2
+top_products,Pants & Capris,,9,9,1529.55,169.95,,22.22,,,Bonfire Women's Radiant Pants,Bonfire,4
+top_products,Intimates,,11,11,1529.0,139.0,,9.09,,,Arc'teryx Women's Rho AR Zip Neck,Arc'teryx,3
+top_products,Skirts,,5,5,1475.0,295.0,,20.0,,,Halston Heritage Women's Wool Pencil Drape Skirt,Halston Heritage,5
+top_products,Pants & Capris,,5,5,1440.0,288.0,,0.0,,,Trina Turk Women's Pasha Pant,Trina Turk,5
+top_products,Intimates,,11,11,1391.5,126.5,,9.09,,,Low Lace V Stretch Silk Satin Chemise By Mary Green,Mary Green,4
+top_products,Jumpsuits & Rompers,,10,10,1299.9,129.99,,0.0,,,VA VA VOOM Burgundy Paisley DESIGNER Embellished Full Length Jumpsuit Romper,VA VA VOOM,4
+top_products,Intimates,,4,4,1266.4,316.6,,25.0,,,Bali Women's One Smooth U-back Underwire,Bali,5
+top_products,Socks,,11,11,1210.0,110.0,,9.09,,,Smartwool Toe Sock Micro,SmartWool,3
+top_products,Jumpsuits & Rompers,,6,6,1207.2,201.2,,16.67,,,WHAT GOES AROUND COMES AROUND Women's Racquel One-Piece Jumpsuit,What Goes Around Comes Around,5
+top_products,Clothing Sets,,6,6,1199.7,199.95,,0.0,,,Womens Top Stitch Jacket and Pant Set by City Lights,City Lights,1
+top_products,Leggings,,6,6,1170.0,195.0,,0.0,,,Robbi & Nikki Women's Blocked Ponte Legging,Robbi & Nikki,3
+top_products,Leggings,,7,7,1126.93,160.99,,14.29,,,7 For All Mankind Women's Double Knit Skinny,7 For All Mankind,4
+top_products,Underwear,,7,7,1014.93,144.99,,28.57,,,Underworks Mens Compression Bodysuit Girdle Shirt 3-Pack,Underworks,2
+top_products,Socks,,8,8,959.6,119.95,,12.5,,,Gold Toe Men's Cotton Quarter Athletic Sock 6-Pack,Gold Toe,4
+top_products,Leggings,,9,9,917.91,101.99,,11.11,,,David Lerner Women's Wax Leggings,DAVID Seeds,5
+top_products,Underwear,,8,8,879.92,109.99,,25.0,,,Smartwool Men's Midweight Bottom,SmartWool,3
+top_products,Clothing Sets,,5,5,845.0,169.0,,0.0,,,Ulla Popken Plus Size Floral 3-Piece Pant Set,Ulla Popken,2
+top_products,Underwear,,6,6,810.0,135.0,,0.0,,,Hanro Men's Woolen Silk Longleg,Hanro,4
+top_products,Underwear,,8,8,807.6,100.95,,37.5,,,Zimmerli Royal Classic Crewneck T-Shirt,Zimmerli of Switzerland,5
+top_products,Clothing Sets,,9,9,792.0,88.0,,0.0,,,Chameleon Convertible Skirt and Dress,Kiyonna,3
+top_products,Clothing Sets,,6,6,774.0,129.0,,0.0,,,V-neck Zip-front Top And Ankle-pants Set,Orvis,4
+top_products,Clothing Sets,,7,7,699.93,99.99,,0.0,,,Woman Within Plus Size Petite rhinestone-trim pantset,Woman Within,5
+top_products,Socks,,10,10,699.9,69.99,,20.0,,,Gore Men's Road Windstopper Overshoes,Gore,5
+top_products,Socks & Hosiery,,4,4,639.8,159.95,,0.0,,,Ballet KD dance Leg Warmers In Knee High To Extra Long 50 Inch Thigh High's Loose Classic Knit Soft Warm & Fashionable Made In NYC USA,KD dance,1
+top_products,Socks & Hosiery,,10,10,490.0,49.0,,20.0,,,Chyor Tights For Spring Fall,Chyor,2
+top_products,Socks & Hosiery,,8,8,486.0,60.75,,12.5,,,CEP Women's Compression Ski Socks,CEP Compression Socks,3
+top_products,Socks & Hosiery,,6,6,474.0,79.0,,16.67,,,One Pair Marcoliani Women's Italian Cashmere and Silk KneeHigh Socks,Marcoliani Milano,4
+top_products,Socks & Hosiery,,6,6,432.0,72.0,,0.0,,,Pure Cashmere Cable Knit Socks for Women Made in Scotland,The Scarf Company,5

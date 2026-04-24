@@ -1,0 +1,9 @@
+customer_segment,num_customers,avg_recency_days,avg_order_count,avg_spend,total_segment_revenue,revenue_share_pct
+Loyal Customer,6241,-571.3,1.26,96.43,601847.89,22.1
+Potential Loyalist,6698,-573.4,1.0,87.22,584181.21,21.45
+At Risk,3831,-80.6,1.22,108.06,413977.9,15.2
+Cannot Lose Them,2867,628.9,1.16,99.27,284596.56,10.45
+Needs Attention,3074,-76.2,1.0,87.88,270146.83,9.92
+Champion,871,-692.0,1.97,254.89,222009.58,8.15
+Others,2106,785.1,1.0,86.52,182214.83,6.69
+Lost,1932,773.3,1.0,85.24,164675.7,6.05

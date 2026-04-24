@@ -1,0 +1,7 @@
+stage_order,funnel_stage,users_reached,prev_stage_users,funnel_entry_pct,step_conversion_pct,users_dropped,step_dropoff_pct
+1,home,58369,,100.0,,0,
+2,category,0,58369,0.0,0.0,58369,100.0
+3,product,74406,0,127.48,,-74406,
+4,cart,74406,74406,127.48,100.0,0,0.0
+5,checkout,0,74406,0.0,0.0,74406,100.0
+6,purchase,74425,0,127.51,,-74425,
