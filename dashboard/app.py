@@ -270,12 +270,12 @@ with tab1:
         fig1.update_yaxes(title_text="MoM Growth %", secondary_y=True)
 
     fig1.update_layout(
-        height=380, plot_bgcolor="white", paper_bgcolor="white",
+        height=380,
         legend=dict(orientation="h", yanchor="bottom", y=1.02),
         margin=dict(l=0, r=0, t=30, b=0),
     )
-    fig1.update_xaxes(gridcolor="#eee")
-    fig1.update_yaxes(gridcolor="#eee")
+    fig1.update_xaxes()
+    fig1.update_yaxes()
     st.plotly_chart(fig1, use_container_width=True)
 
     with st.expander("📋 Monthly Data Table"):
@@ -311,7 +311,6 @@ with tab2:
         )
         fig_pie.update_layout(
             height=360, margin=dict(l=0, r=0, t=40, b=0),
-            paper_bgcolor="white",
         )
         st.plotly_chart(fig_pie, use_container_width=True)
 
@@ -329,11 +328,11 @@ with tab2:
         )
         fig_bubble.update_traces(textposition="top center", textfont_size=9)
         fig_bubble.update_layout(
-            height=360, paper_bgcolor="white", plot_bgcolor="white",
+            height=360,
             showlegend=False, margin=dict(l=0, r=0, t=40, b=0),
         )
-        fig_bubble.update_xaxes(title="Days Since Last Order (↑ worse)", gridcolor="#eee")
-        fig_bubble.update_yaxes(title="Avg Orders Per Customer", gridcolor="#eee")
+        fig_bubble.update_xaxes(title="Days Since Last Order (↑ worse)")
+        fig_bubble.update_yaxes(title="Avg Orders Per Customer")
         st.plotly_chart(fig_bubble, use_container_width=True)
 
     st.dataframe(
@@ -372,11 +371,11 @@ with tab3:
             textfont_size=9,
         )
         fig_bar.update_layout(
-            height=400, paper_bgcolor="white", plot_bgcolor="white",
+            height=400,
             showlegend=False, coloraxis_showscale=False,
             margin=dict(l=0, r=80, t=40, b=0),
         )
-        fig_bar.update_xaxes(gridcolor="#eee")
+        fig_bar.update_xaxes()
         st.plotly_chart(fig_bar, use_container_width=True)
 
     with c2:
@@ -393,11 +392,11 @@ with tab3:
         )
         fig_scatter.update_traces(textposition="top center", textfont_size=8)
         fig_scatter.update_layout(
-            height=400, paper_bgcolor="white", plot_bgcolor="white",
+            height=400,
             margin=dict(l=0, r=0, t=40, b=0),
         )
-        fig_scatter.update_xaxes(title="Avg Discount %", gridcolor="#eee")
-        fig_scatter.update_yaxes(title="Return Rate %", gridcolor="#eee")
+        fig_scatter.update_xaxes(title="Avg Discount %")
+        fig_scatter.update_yaxes(title="Return Rate %")
         st.plotly_chart(fig_scatter, use_container_width=True)
 
 
@@ -427,7 +426,6 @@ with tab4:
         height=480,
         xaxis_title="Months Since First Purchase",
         yaxis_title="Cohort (Acquisition Month)",
-        paper_bgcolor="white",
         margin=dict(l=0, r=0, t=20, b=0),
     )
     st.plotly_chart(fig_heat, use_container_width=True)
@@ -449,11 +447,11 @@ with tab4:
             color_discrete_sequence=[PRIMARY],
         )
         fig_line.update_layout(
-            height=250, paper_bgcolor="white", plot_bgcolor="white",
+            height=250,
             margin=dict(l=0, r=0, t=40, b=0),
         )
-        fig_line.update_xaxes(gridcolor="#eee")
-        fig_line.update_yaxes(gridcolor="#eee")
+        fig_line.update_xaxes()
+        fig_line.update_yaxes()
         st.plotly_chart(fig_line, use_container_width=True)
     with c2:
         st.dataframe(avg_by_month, use_container_width=True, hide_index=True)
@@ -485,7 +483,6 @@ with tab5:
         ))
         fig_funnel.update_layout(
             height=420,
-            paper_bgcolor="white",
             margin=dict(l=0, r=0, t=20, b=0),
         )
         st.plotly_chart(fig_funnel, use_container_width=True)
@@ -511,13 +508,11 @@ with tab5:
         )
         fig_drop.update_layout(
             height=300,
-            paper_bgcolor="white",
-            plot_bgcolor="white",
             showlegend=False,
             coloraxis_showscale=False,
             margin=dict(l=0, r=60, t=10, b=0),
         )
-        fig_drop.update_xaxes(gridcolor="#eee")
+        fig_drop.update_xaxes()
         st.plotly_chart(fig_drop, use_container_width=True)
 
         st.markdown("#### Key Insight")
