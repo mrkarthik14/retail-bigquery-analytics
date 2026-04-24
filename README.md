@@ -246,9 +246,9 @@ python bigquery_client.py
 
 **Charan Karthik Nayakanti**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/charan-karthik-0070b429a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/charankarthiknayakanti/)
 [![GitHub](https://img.shields.io/badge/GitHub-mrkarthik14-181717?style=flat&logo=github)](https://github.com/mrkarthik14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat)](https://charan-karthik-nayakanti.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat)](https://charan-karthik-nayakanti-14.netlify.app)
 
 ---
 
